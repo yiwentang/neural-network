@@ -1,5 +1,5 @@
 # neural-network
-Quantfind -- Neural Network Matlab Implementation
+Quantifind -- Neural Network Matlab Implementation
 
 Neural Network Implementation from Coursera Machine Learning class. 
 
